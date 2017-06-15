@@ -4,7 +4,7 @@ module.exports = function main() {
     console.log(`o) 最大值 = ${sequence.maxmum()}`);
     console.log(`o) 元素数量 = ${sequence.idmum()}`);
     console.log(`o) 平均值 = ${sequence.avemum()}`);
-                }
+             
 
 // Write your code here
 };
