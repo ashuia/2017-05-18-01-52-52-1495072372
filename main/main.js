@@ -7,7 +7,7 @@ module.exports = function main() {
 
 class Sequence {
   constructor(input) {
-    var myArray=new Array(input)；
+    var myArray=new Array(input);
     // Write your code here
   }
 
